@@ -1,10 +1,10 @@
 ---
-author: student name
-title: "Camels on the Silk Road Trade Network"
+author: Dominik Gutierrez
+title: "Weapons technology on the Silk Road"
 layout: base
-header-image: images/ota-gate-khiva2.jpg
+header-image: images/crossbow-1.jpg
 thumbnail: images/ota-gate-demo-gray.png
-summary: In the premodern era, camels were key to the functioning of the Silk Road Trade Network.
+summary: Through conflict and collaboration, weapons technology integrates in many forms across Eurasia through millennia.
 ---
 
 # Example Thematic Essay
