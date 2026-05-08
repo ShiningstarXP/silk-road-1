@@ -9,71 +9,31 @@ summary: Through conflict and collaboration, weapons technology integrates in ma
 
 # Silk Road Weapons Technology
 
-The Silk Road was an invaluably influential means of transporting both physical goods and technological information with its associated platforms. Not stopping at paper or stirrups, this extended to weapons and their means of production. This aspect of the route’s rich history extended from the early advent of the sword on the steppe, cutting its way toward Ancient China, where they would be combined with advanced metallurgy to be elevated as status symbols. Additionally, gunpowder’s path westward accompanied the Mongol conquests and the Christian crusades during the High Middle Ages. Free trade would certainly be a vector for these movements, the role of imperialism and warfare must be recognized when discussing the spead of arms and advancing weapons technology throughout Eurasia. 
-**Seedling.**
+The Silk Road was an invaluably influential means of transporting both physical goods and technological information with its associated platforms. Not stopping at paper or stirrups, this extended to weapons and their means of production. This aspect of the route’s rich history extended from the early advent of the sword on the steppe, cutting its way toward Ancient China, where they would be combined with advanced metallurgy to be elevated as status symbols. Additionally, gunpowder’s path westward accompanied the Mongol conquests and the Christian crusades during the High Middle Ages. Extended means of trade would certainly be a vector for these movements, the role of imperialism and warfare must be recognized when discussing the spead of arms and advancing weapons technology throughout Eurasia. 
 
 
-## Weapons and their matieral cost in state-level civilizations on the Silk Road
+## Weapons and their material cost in state-level civilizations on the Silk Road
 
-This paragraph sits next to a **right-aligned image**. The ScrollStory layout gives images breathing room—you'll never see cramped text squished against a photo. The spacing and typography are designed to feel more like a magazine than a typical web page.
+Since humans learned tool usage, weapons have been used to distinguish mankind from other animals in their capacity to exert for self-determination and resource extraction in several aspects. This would continue to be true as civilizations grew in their organization and technological advances, one such early entry would be the emergence of sword technology on the Eurasian steppe around the 4th millennium BC (and its movement into China several millennia after (Citation Needed) .
 
-Notice the caption below the image includes a clickable source link. This is how you maintain scholarly rigor while keeping the visual design clean.[^randomthing]
+A Duan jian sword in a Chinese style and likely manufactured there uses advanced metallurgy technology of mixed composition, such as bronze, steel, and gold, from an organized society with access to smithing and metallic resources applied to sword technology procured from central Asia. A surviving example catalogued on this site was likely manufactured in China, but would be excavated in the Taklamakan desert again in central Asia, dating to around the 4th century BC.
 
-[^randomthing]:Put your source information here.
+State level socities would be able to experiment with forms of technology, the same would apply to weapons. Bow technology would be further developed in china to the result of mechanical crossbows, which would be mass-manufactured for China’s army from the 5th century BC onward. In addition to this, the feat of achieving internally fed, repeating crossbows would be achieved to illustrate the technological and productive industries that were present in China at this time in the form of advanced projectiles in addition to bladed weapons. The noble crossbow would resurge in relevance much later and much further away in the historical record. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus.
+In these examples, the lineage of techno-economic warfare through Silk Road links would ensure each weapon used along its route would be traded among it’s polities and beyond their use as tools employed mainly by states and armies, they would become commodities to be moved and negotiated for several culturally institutional purposes. 
 
-Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est. Sed ultrices dui vitae enim semper accumsan.[^anotherrandomthing]
-
-[^anotherrandomthing]:Put your next footnote source information here.
 
 
 ## Empire and the tools of conquest
-Each section heading (marked with `##` in Markdown) creates a clear visual break in your essay. This helps readers navigate long-form content and gives you natural places to shift topics or introduce new ideas.
 
-**Why this matters:** Breaking essays into clear sections makes writing more manageable. Write one section at a time, preview it, then move to the next. No need to tackle the entire essay at once.
+As with other mediums of technology and commodity moved along the Silk Road, the continuity of weapon advancement via its routes would persist. As with many other things, these industries would upscale, particularly in keeping pace with state-level societies growing into the role of empires like the Chinese, Mongol empires, and Islamic caliphates. Martial advents may move from one province to another through trade and skirmish, though in the age of trans-regional empire on the Silk Road in the Middle Ages, technologies that had remained relatively contained would be applied by new adopters a world away to great effect, as with the case of gunpowder. Weaponry is a crucial empire builder in exerting will over other groups; the same is true for the Mongols' use of gunpowder in the Middle East after its conception in 9th century china.  From here, the crusades would familiarize Europeans with this new projectile platfor which was capable of piercing plate armor, and after a few centuries, it would be further adapted into metallic guns, such is the case with the Danzig handgun dating to the 14th century. This piece is a clear transplant and advancement of gunpowder technology from China after its movement westward through the Silk Road with the aid of the Mongols into Northern Europe, likely preserved as opposed to earlier pieces due to its metallic construction.  Weapons are expressions of ideas and practical application, moved like many other ideas along this road, such as religion and belief systems. 
 
-Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc nec congue. Curabitur sapien risus, finibus id tincidunt iaculis, porta et ipsum. Cras eu mollis sapien. Sed a mauris finibus orci molestie mollis.
-
-{% include typography/aside.html class="right" text="
-This is a pull quote—a design element that highlights important text or quotations. It appears as a semi-transparent box to the right of your main text. Use these sparingly for maximum impact." %}
-
-The pull quote you just saw is created with a simple `include` command in Markdown. It's one of many reusable components in Xanthan. You can put important quotes, key statistics, or memorable phrases in these boxes to create visual interest and emphasize crucial points.
-
-Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend lectus in bibendum elementum. Vivamus ut velit dignissim, cursus libero nec, commodo orci. Morbi lacus metus, posuere ut pretium ac, malesuada id ligula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat, lacus id blandit ornare, mi nisi rutrum ante, vitae dignissim mauris nisl mattis nisl.
 
 ## Ritual and Liberty
 
-The image to the right is **wider than the previous one** (60% instead of 48%). You control this with the `width` parameter in the image code. Want a small image? Use 30%. Want something that dominates? Try 70%.
-
-Images can also be left-aligned (use `class="left"`) or centered full-width (we'll show that in more advanced essays). For Seedling level, right-aligned images at 48-60% width work well for most purposes.
-
-Duis vehicula erat et diam pharetra iaculis. Etiam rutrum scelerisque nunc, ut interdum justo pellentesque sit amet. Vivamus cursus massa mauris, a finibus felis laoreet quis. Integer vel molestie neque.
+As avenues to express not only status but ideology, weapons have several other connotations attached to them in historical contexts aside from their practical usages. In particular, religious iconography and significance would be applied to weapons, as may be evident by a Vajra-hilted ken or E-ken catalogued here. The weapon’s blade dates to around the 11th century; however, the hilt is a later 14th century addition that transforms the sword from a simple weapon into a ritual item that makes use not only of Buddhist contexts but also Vedic beliefs transferred from the Indian subcontinent along with Buddhism earlier to Japan, where the weapon originates from. Again, this is arguably a further usage of sword technology, which additionally migrated several millennia earlier. The ritual purpose was for metaphysical protection against spirits, paralleling its physical purpose. This evidently blends technological and ideological development further. With this in addition to other means, weapons would then serve as badges of self-determination and expression. Expression would be at the fore with the last object of note, a handheld crossbow crafted for a Germanic noble in the 15th century utilizng intricate work and prestige materials such as horn or ivory. To this end, this highly detailed artifact was richly decorated to display the wealth of its owner, even if it may have been intended for hunting. Nearly two millennia after its inception in China, crossbow technology migrated again with the aid of the crusades, back to Europe, showing that even across many thousands of Years and miles, is can be seen through weapons artifacts that the Silk Road indeed moved technology and ideology across large scales of space and time. 
 
 
-## Conclusion: The flow of war 
-By now you've scrolled through several sections and noticed the **rhythm** of a ScrollStory: heading, text, image, text, pull quote, text. This creates a visual cadence that keeps readers engaged without overwhelming them.
-
-**For your own essay:** Think about pacing. Where do readers need a visual break? Where should an image reinforce your argument? When does a pull quote emphasize a key point? These decisions make the difference between a wall of text and an engaging narrative.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Aliquam in sapien mauris. Aliquam erat volutpat.
-
-Nunc congue ultrices lacus, a efficitur massa pulvinar at. Sed luctus orci sed sem commodo, in rhoncus orci sagittis. Duis in sagittis arcu. Donec dictum aliquam congue. Nulla varius ipsum vitae nibh dapibus, et tincidunt turpis gravida.
-
-
-
-## What You've Learned So Far
-If you can create this Seedling essay, you can:
-- Structure content with section headings
-- Add images with captions and source links
-- Include footnotes for citations
-- Use pull quotes for emphasis
-- Format block quotes for extended quotations
-- Control image sizes and placement
-
-**That's enough to create compelling digital scholarship.** The Sapling and Forest essays add more sophisticated features, but this foundation works for most student projects and many professional ones too.
-
-Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend lectus in bibendum elementum. Vivamus ut velit dignissim, cursus libero nec, commodo orci. Morbi lacus metus, posuere ut pretium ac, malesuada id ligula.
 
 ---
 
@@ -108,5 +68,3 @@ Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend le
 - Pyhrr, Stuart W., Donald J. La Rocca, and Morihiro Ogawa. Arms and Armor: Notable Acquisitions, 1991–2002. The Metropolitan Museum of Art, 2002. 43–44. https://books.google.com/books?id=tu3rasl0_fMC&lpg=PP1&pg=PA40#v=onepage&q&f=false 
 
 - Schlegel, G. “On the Invention and Use of Fire-Arms and Gunpowder in China, Prior to the Arrival of Europeans.” T’oung Pao 3, no. 1 (1902): 1–11. http://www.jstor.org/stable/4525582. 
-
-
